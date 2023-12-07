@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    background-color: orange;
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
+nav ul{    
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white   ;
+    letter-spacing: 0.1em;
+    font-family: sans-serif;
+}

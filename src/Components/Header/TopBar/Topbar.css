@@ -1,0 +1,7 @@
+.topbar{
+    background-image: url(../../../assets/Live.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 30vh;
+    margin: 0.5em;
+}
